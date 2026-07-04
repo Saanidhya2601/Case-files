@@ -168,4 +168,3 @@ ORDER BY incident_count DESC;
 
 ---
 
-*Built as part of a data engineering portfolio. Inspired by the Dataquest SQL Projects series.*
